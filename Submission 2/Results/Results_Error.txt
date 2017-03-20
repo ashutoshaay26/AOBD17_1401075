@@ -1,0 +1,18 @@
+Solt and Paper
+
+Variant    Error		Time (s)
+5%           1.1%        9.46
+10%			 1.72%	     12.37
+20%          17%         
+25%   		 19%
+50%          27%
+
+
+Missing Entry
+
+Variant    Error
+5%			1%	
+10%			123
+20%			115
+25%			111
+50%			88.41
